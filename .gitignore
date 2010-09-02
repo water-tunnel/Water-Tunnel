@@ -1,0 +1,17 @@
+*.vcproj.*
+*.vcproj
+*.obj
+*.exe
+*.dat
+*.pdb
+*.sln
+*.suo
+*.asv
+*.dll
+*.ilk
+*.idb
+*.htm
+*.ncb
+lib/
+Debug/
+debug/
